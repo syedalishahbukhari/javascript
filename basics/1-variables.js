@@ -1,6 +1,5 @@
 const accountId = 14301
 let accountEmail = "syedali@14004"
-var accountPasswerd = "12345"
 acountcity = "kohat"
 let accountState;
 
